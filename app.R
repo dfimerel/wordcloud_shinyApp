@@ -22,7 +22,7 @@ titlePanel("Create Wordclouds of your text"),
 		   numericInput("numero",label="Choose the number of words to display",value=25,min=10,max=50,step=5),
 		   hr(),
                    h4("This Shiny app creates a wordcloud from the most frequent words of your uploaded text. It was created with the R package wordcloud2."),
-		   h4("For the moment, only .txt files are accepted. Some example files and the R code can be found here: https://github.com/dfimerel")
+		   h4("For the moment, only .txt files are accepted. Some example files and the R code can be found here: https://github.com/dfimerel/wordcloud_shinyApp")
  
                
                ),
