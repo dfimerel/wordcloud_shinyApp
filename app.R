@@ -1,7 +1,7 @@
 #load packages and global script
 library(wordcloud2)
 library(tools)
-source("~/shiny_apps/global.R")
+source("global.R")
 
 # available shapes for the wordcloud 
 shapes=c("circle","diamond","triangle","pentagon","star")
