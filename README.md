@@ -16,4 +16,4 @@ Can be installed like this: install.packages(c("shiny", "wordcloud2", "tm"))
 ## Running
 To run the app localy: shiny::runGitHub("dfimerel/wordcloud_shinyApp")
 
-![alt tag](images/Screenshot.png)
+![alt tag](images/Screenshot_new.png)
