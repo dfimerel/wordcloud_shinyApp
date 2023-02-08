@@ -1,1 +1,38 @@
-As in many cancer types, miRNA expression profiles and functions have become an important field of research on non-medullary thyroid carcinomas, the most common endocrine cancers. This could lead to the establishment of new diagnostic tests and new cancer therapies. However, different studies showed important variations in their research strategies and results. In addition, the action of miRNAs is poorly considered as a whole because of the use of underlying dogmatic truncated concepts. These lead to discrepancies and limits rarely considered. Recently, this field has been enlarged by new miRNA functional and expression studies. Moreover, studies using next generation sequencing give a new view of general miRNA differential expression profiles of papillary thyroid carcinoma. We analyzed in detail this literature from both physiological and differential expression points of view. Based on explicit examples, we reviewed the progresses but also the discrepancies and limits trying to provide a critical approach of where this literature may lead. We also provide recommendations for future studies. The conclusions of this systematic analysis could be extended to other cancer types.
+A free bird leaps
+on the back of the wind   
+and floats downstream   
+till the current ends
+and dips his wing
+in the orange sun rays
+and dares to claim the sky.
+But a bird that stalks
+down his narrow cage
+can seldom see through
+his bars of rage
+his wings are clipped and   
+his feet are tied
+so he opens his throat to sing.
+The caged bird sings   
+with a fearful trill   
+of things unknown   
+but longed for still   
+and his tune is heard   
+on the distant hill   
+for the caged bird   
+sings of freedom.
+The free bird thinks of another breeze
+and the trade winds soft through the sighing trees
+and the fat worms waiting on a dawn bright lawn
+and he names the sky his own.
+But a caged bird stands on the grave of dreams   
+his shadow shouts on a nightmare scream   
+his wings are clipped and his feet are tied   
+so he opens his throat to sing.
+The caged bird sings   
+with a fearful trill   
+of things unknown   
+but longed for still   
+and his tune is heard   
+on the distant hill   
+for the caged bird   
+sings of freedom.
